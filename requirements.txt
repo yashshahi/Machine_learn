@@ -1,0 +1,9 @@
+ipykernel
+Numpy
+pandas
+matplotlib
+seaborn
+statsmodels
+scikit-learn
+
+#pip install -r requirements.txt
